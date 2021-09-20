@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">cafe</string>
+    <string-array name="options">
+        <item>Main Course</item>
+        <item>Dessert</item>
+        <item>Drinks</item>
+    </string-array>
 </resources>
