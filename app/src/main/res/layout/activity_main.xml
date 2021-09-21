@@ -7,7 +7,14 @@
     android:orientation="vertical"
     tools:context=".MainActivity">
 
-
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="200dp"
+        android:layout_height="150dp"
+        android:layout_gravity="center"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="20dp"
+        app:srcCompat="@drawable/cafelogo" />
 
     <ListView
         android:id="@+id/list_options"
