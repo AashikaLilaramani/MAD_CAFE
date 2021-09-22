@@ -27,15 +27,15 @@ public class Food implements Parcelable {
      */
 
     public static final Food[] mainCourse = {
-            new Food("Japchae", 12.99, "4 pancakes", R.drawable.japchae),
-            new Food("Kungpao Chicken", 14.50, "Crispy Golden Brown", R.drawable.kungpai),
-            new Food("Spicy Ramen", 9.99, "4 pancakes", R.drawable.spicyramen),
-            new Food("Biriyani", 10.50, "Crispy Golden Brown", R.drawable.biriyani),
-            new Food("Fish Curry and Rice", 11.99, "4 pancakes", R.drawable.fishcurryandrice),
-            new Food("Chicken Tikka Masala", 7.50, "Crispy Golden Brown", R.drawable.chickentikkamasala),
-            new Food("Pho", 10.99, "4 pancakes", R.drawable.pho),
-            new Food("Lao Chicken", 15.50, "Crispy Golden Brown", R.drawable.laochicken),
-            new Food("Saik Krok Khmer", 12.99, "4 pancakes", R.drawable.saikkrokkhmer),
+            new Food("Japchae", 12.99, "stir-fried glass noodles and vegetables", R.drawable.japchae),
+            new Food("Kungpao Chicken", 14.50, " spicy, stir-fried Chinese dish", R.drawable.kungpai),
+            new Food("Spicy Ramen", 9.99, "noodles with asian chilli sauce", R.drawable.spicyramen),
+            new Food("Biriyani", 10.50, "a mixed rice dish with spices", R.drawable.biriyani),
+            new Food("Fish Curry and Rice", 11.99, "a light and flavorful curry with rice", R.drawable.fishcurryandrice),
+            new Food("Chicken Tikka Masala", 7.50, "roasted marinated chicken with spicy curry", R.drawable.chickentikkamasala),
+            new Food("Pho", 10.99, "a soup dish consisting of broth, rice noodles, and meat", R.drawable.pho),
+            new Food("Lao Chicken", 15.50, "chicken wings with sticky rice and papaya salad", R.drawable.laochicken),
+            new Food("Saik Krok Khmer", 12.99, "well seasoned sausage with southeast asian spices", R.drawable.saikkrokkhmer),
 
     };
 
