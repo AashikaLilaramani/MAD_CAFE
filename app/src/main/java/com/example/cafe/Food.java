@@ -40,27 +40,27 @@ public class Food implements Parcelable {
     };
 
     public static final Food[] dessert = {
-            new Food("Mochi", 3.99, "4 pancakes", R.drawable.mochi),
-            new Food("Melonpan", 4.50, "Crispy Golden Brown", R.drawable.melonpan),
-            new Food("Mooncake", 2.99, "4 pancakes", R.drawable.mooncake),
+            new Food("Mochi", 3.99, "Japanese dessert made of sweet rice flour", R.drawable.mochi),
+            new Food("Melonpan", 4.50, "sweet bread covered in a thin layer of crisp cookie crust", R.drawable.melonpan),
+            new Food("Mooncake", 2.99, "a type of snack or dessert pastry with a sweet/savory filling", R.drawable.mooncake),
             new Food("Gulab Jamun", 2.50, "Crispy Golden Brown", R.drawable.gulabjamun),
-            new Food("Kulfi", 3.99, "4 pancakes", R.drawable.kulfi),
-            new Food("Ras Malai", 5.50, "Crispy Golden Brown", R.drawable.rasmalai),
-            new Food("Banh Bo", 3.99, "4 pancakes", R.drawable.banhbo),
-            new Food("Buko pie", 10.50, "Crispy Golden Brown", R.drawable.bukopie),
-            new Food("Halo-halo", 7.50, "Crispy Golden Brown", R.drawable.halohalo),
+            new Food("Kulfi", 3.99, "a milk-solid-based sweet soaked in rose sugar syrup", R.drawable.kulfi),
+            new Food("Ras Malai", 5.50, " a creamy and milky syrup that consist of cottage cheese balls", R.drawable.rasmalai),
+            new Food("Banh Bo", 3.99, "sweet, chewy sponge cake from Vietnam", R.drawable.banhbo),
+            new Food("Buko pie", 10.50, "a traditional Filipino baked young-coconut custard pie", R.drawable.bukopie),
+            new Food("Halo-halo", 7.50, "a popular cold dessert made up of crushed ice and milk", R.drawable.halohalo),
     };
 
     public static final Food[] drinks = {
-            new Food("Sake", 7.99, "4 pancakes", R.drawable.sake),
-            new Food("Yuan Yang Tea", 3.50, "Crispy Golden Brown", R.drawable.yuanyang),
-            new Food("Soju", 8.50, "Crispy Golden Brown", R.drawable.soju),
-            new Food("Chai", 2.50, "Crispy Golden Brown", R.drawable.chai),
-            new Food("Lassi", 2.50, "Crispy Golden Brown", R.drawable.lassi),
-            new Food("Rooh Afza Sharbat", 3.50, "Crispy Golden Brown", R.drawable.roohafza),
-            new Food("Nuoc Mia", 5.50, "Crispy Golden Brown", R.drawable.nuocmia),
-            new Food("Bubble Tea (Boba Tea)", 6.50, "Crispy Golden Brown", R.drawable.bobatea),
-            new Food("Teh Tarik", 4.50, "Crispy Golden Brown", R.drawable.tehtarik),
+            new Food("Sake", 7.99, "an alcoholic beverage made by fermenting rice", R.drawable.sake),
+            new Food("Yuan Yang Tea", 3.50, "a drink that combines the flavor of both coffee and tea", R.drawable.yuanyang),
+            new Food("Soju", 8.50, "clear, low-alcohol, distilled spirit", R.drawable.soju),
+            new Food("Chai", 2.50, "a tea beverage made by boiling black tea in milk and water ", R.drawable.chai),
+            new Food("Lassi", 2.50, "a blend of yogurt, water, spices and sometimes fruit", R.drawable.lassi),
+            new Food("Rooh Afza Sharbat", 3.50, "a concentrated squash drink", R.drawable.roohafza),
+            new Food("Nuoc Mia", 5.50, "a sugarcane juice extracted from pressed sugarcane", R.drawable.nuocmia),
+            new Food("Bubble Tea (Boba Tea)", 6.50, " tea accompanied by chewy tapioca balls", R.drawable.bobatea),
+            new Food("Teh Tarik", 4.50, "a hot milk tea beverage most commonly found in Southeast Asia", R.drawable.tehtarik),
     };
 
 
